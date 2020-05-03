@@ -1,0 +1,41 @@
+//student form
+.header{
+  width: 100%;
+  margin: 50px auto 0px;
+  color: white;
+  font-size:80px;
+  background: #5F9EA0;
+  text-align: left;
+  border: 2px solid #B0C4DE;
+
+  border-radius: 10px ;
+  padding: 20px;
+}
+
+#frm {
+  width: 100%;
+  margin: 100px auto;
+  padding: 100px;
+  
+  border: 1px solid #B0C4DE;
+  background: grey;
+  border-radius:  10px;
+}
+
+
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #5F9EA0;
+  border: none;
+  border-radius: 5px;
+}
+
+
+input
+{
+padding: 5px;
+border-radius: 2px 3px ;
+  }
+
