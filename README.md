@@ -16,3 +16,9 @@ Admin Registartion
 Student Registration
 
 <img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/dbms-php/blob/master/page%20images/studentregister.png" />
+
+
+Report
+
+<img align="right" alt="GIF" src="https://github.com/SAMYAKLJAIN/dbms-php/blob/master/page%20images/reporthostel.png" />
+
