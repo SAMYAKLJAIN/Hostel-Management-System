@@ -1,5 +1,5 @@
-# dbms-php
-This repository consist of  the database management system project i.e Hostel Management developed using  php,html and css as front end.Backend includes SQL
+# Hostel Management System 
+This repository consist of  the database management system project developed using  php,html and css as front-end.Backend includes SQL and phpmyadmin
 
 Login Page :
 
